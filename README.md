@@ -1,2 +1,7 @@
 # chain-ana
-install
+install requerement
+
+```python
+pip install -r req.txt
+```
+
